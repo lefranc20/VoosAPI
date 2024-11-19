@@ -1,6 +1,7 @@
 Uma API para o gerenciamento de vôos de avião.
 
 # Compilação e Execução
+
 ## Back-End
 
 Compilação no Windows:
@@ -11,7 +12,6 @@ Compilação no Linux:
 
 Se algum problema persistir, re-execute com mais detalhes de log para analisar melhor:
 ./mvnw clean package -e -X
-
 
 Execute o back-end desta maneira
 java -jar target/voos_api-0.0.1-SNAPSHOT.jar
@@ -48,5 +48,7 @@ ou exibindo todos:
 SELECT * FROM voo;
 
 ## Front-End
-npm install
-npm start
+Primeiro:
+`npm install`
+então:
+`npm start`
