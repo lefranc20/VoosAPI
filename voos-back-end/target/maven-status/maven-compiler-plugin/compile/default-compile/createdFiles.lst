@@ -1,0 +1,4 @@
+repositorios\VooRepositorio.class
+minha\api\voos_api\ApiDeVoosApplication.class
+controller\VooController.class
+model\Voo.class
